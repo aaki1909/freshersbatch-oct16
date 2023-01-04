@@ -50,7 +50,7 @@ const form = document.getElementById('form')
 	}
 	
 	function updateLS() {
-	todosEl = document.querySelectorAll('li')
+	todosEl = document.querySelectorAll('list')
 	
 	const todos = []
 	
