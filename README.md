@@ -1,1 +1,1 @@
-simple project
+simple project of css assignments
