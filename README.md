@@ -1,1 +1,1 @@
-simole project
+simple project
