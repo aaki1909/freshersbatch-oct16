@@ -1,7 +1,4 @@
-simple project of css assignments
+sample project of js assignments
 
 change in css assignments
-<<<<<<< HEAD
-=======
 minor changes
->>>>>>> css-assignments
